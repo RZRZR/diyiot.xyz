@@ -3,4 +3,14 @@
 
 [Solar Controller software](solar_controller.ino)
 
-[Another page](solar.md)
+[Solar Power](solar.md)
+
+[Solar/Battery Monitoring]()
+
+[Water](water.md)
+
+[Heat]()
+
+[Cooking]()
+
+[Internet Connected Fridge]()
