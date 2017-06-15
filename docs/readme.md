@@ -1,9 +1,8 @@
-## Hello
+## Project Breakdown for tiny IoT home (in a van)
 
-
-[Solar Controller software](solar_controller.ino)
 
 [Solar Power](solar.md)
+
 
 [Solar/Battery Monitoring]()
 
