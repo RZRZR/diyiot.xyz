@@ -71,6 +71,8 @@ This is a very simple example, but I hope it goes some way in showing how we can
 
 So, the tech savvy among you will notice I left out part of the data's journey in the example above. Rather than my phone talking directly to the computer in my home, it actually talks to a central server *in the cloud* owned by a company that made my boiler's relay***.
 
+![Not to an actual cloud, daily mail 2014](../images/nottoanactualcloud.jpeg) - Daily Mail, September 2014.
+
 This is described as a centralised system, because rather than data going from one device directly to another, it all gets beamed up to a central system to be processed and either collected or acted upon.
 
 I'll talk a bit more about why this is important in the next section.
@@ -123,7 +125,39 @@ A local network is a network of computers. AN internet, not THE internet.
 
 ## ATLIN
 
+![](../images/atlinbox.jpeg) ![](../images/atlinbrowser.jpeg)
+
+
 ## Isle of Lewis
+![](../images/isleoflewis.jpeg)
+![](../images/map.jpeg)
+![](../images/signalstrength.jpeg) - opensignal.com
+![](../images/searching.jpeg)
+
+![](../images/telephonebox.jpeg)
+![](../images/paypalcampingspot.jpeg)
+
+![](../images/oldvan.jpeg)
+
+## Discovering vanlife
+
+![](../images/vanlifeiot.jpeg)
+![](../images/van_dashboard_mk1.jpeg)
+
+![](../images/solarmonitor.jpeg)
+![](../images/solarhack.jpeg)
+![](../images/van_dashboard.png)
+
+
+## Next Steps
+
+Since returning I have reconsidered how I frame decentralisation and how I might be able to reach communities that don't often get invited to think about how the internet and IoT may be beneficial for them.
+
+Part of this will be building a tiny IoT home on wheels. This means I can have discussions with people anywhere about how IoT within their own home could benefit them, whilst promoting ethical IoT, and perhaps more knowledge to be able to understand what IoT they are buying.
+
+And ideally I'd like people starting to make their own hardware, so the biggest part of my next steps is documenting each step of my Tiny IoT home build, see more below.
+
+![](../images/newvan.jpeg)
 
 ## Rethinking Decentralisation
 
@@ -132,15 +166,10 @@ This isn't a new idea. Library buses have been touring rural areas since XXX.
 
 We talk a lot about how the internet means we can work from anywhere, but more often than not 'anywhere' means anywhere in cites or in our homes. Perhaps it is time to start thinking about internet, IoT and homes that can move.
 
-### Next Steps
 
-Since returning I have reconsidered how I frame decentralisation and how I might be able to reach communities that don't often get invited to think about how the internet and IoT may be beneficial for them.
 
-Part of this will be building a tiny IoT home on wheels. This means I can have discussions with people anywhere about how IoT within their own home could benefit them, whilst promoting ethical IoT, and perhaps more knowledge to be able to understand what IoT they are buying.
 
-And ideally I'd like people starting to make their own hardware, so the biggest part of my next steps is documenting each step of my Tiny IoT home build, see more below.
-
-### Open Hardware
+## Open Hardware
 
 A quick overview of what Open Hardware is, and how my building and documenting works.
 
