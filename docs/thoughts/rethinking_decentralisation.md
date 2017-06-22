@@ -87,7 +87,7 @@ I'll talk a bit more about why this is important in the next section.
 
 
 When we discuss decentralisation within IoT, we're often talking about:
-* Advocating for an alternative to all IoT services to be run (and data collected) by a few big companies.
+* Advocating for an alternative to all IoT services being managed by a few big companies.
 * Security, transparency and data ownership.
 * Local networks.
 
@@ -117,8 +117,9 @@ To push the analogy a little further, decentralised systems quarantine themselve
 
 #### Security, transparency and data ownership.
 
-Security - I will be brief, because there is so much information on internet and IoT security failures.
-Imagine for a moment, if every minute detail of your daily life - when you turned the light out to go to bed, when you wake up, when you turn the heating on, what you watch on tv, etc. was owned by a company, and that data was breached. Simply, if we built primarily decentralised systems, not as much of our data would need to be stored on servers out of our control.
+Security - I will be brief, because there is so much information out there on internet and IoT security failures.
+
+Imagine for a moment, if every minute detail of your daily life - when you turned the light out to go to bed, when you wake up, when you turn the heating on, what you watch on tv, etc. was owned by a company, and that data was breached. If we built primarily decentralised systems, not as much of our data would need to be stored on servers out of our control.
 I will share two links which should be enough to freak you out:
 * [haveibeenpwned.com](https://haveibeenpwned.com/) to see if any of your accounts have been compromised in any major security breach.
 * [http://www.insecam.org/](http://www.insecam.org/) a large directory of insecure public webcams. These haven't been hacked, they have been left insecure by the manufacturers.
@@ -166,9 +167,9 @@ A local network is a network of computers. AN internet, not THE internet.
 
 Since returning I have reconsidered how I frame decentralisation and how I might be able to reach communities that don't often get invited to think about how the internet and IoT may be beneficial for them.
 
-Part of this will be building a tiny IoT home on wheels. This means I can have discussions with people anywhere about how IoT within their own home could benefit them, whilst promoting ethical IoT, and perhaps more knowledge to be able to understand what IoT they are buying.
+Part of this will be building a tiny IoT home on wheels. This means I can have discussions with people anywhere about how IoT within their own home could benefit them, whilst promoting ethical IoT, and perhaps more knowledge will lead to better understanding of what IoT they are buying.
 
-And ideally I'd like people starting to make their own hardware, so the biggest part of my next steps is documenting each step of my Tiny IoT home build, see more below.
+And ideally I'd like people starting to make their own hardware, so the biggest part of my next steps is documenting the progress of my Tiny IoT home build, see more below.
 
 ![](../images/newvan.jpeg)
 
