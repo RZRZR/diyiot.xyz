@@ -107,6 +107,12 @@ For balance, some advantages big companies have:
  * Money for product innovation.
  * Money for advertising and public education.
 
+Often people will understandably feel that they have no choice but choose products made by the mainstream companies. However, as consumers we are not only buying a product, but we are supporting a company when we buy things. We can ask companies to change products and practices, and we can stop buying from them if they don't.
+
+I invite people to think about [seed banks](https://en.wikipedia.org/wiki/Seed_bank) (bare with me). In the last 50 years crop diversity has massively diminished, genetic diversity within each crop (fewer strains) and the number of different species grown. All over the globe we have facilities where every strain of seed is carefully stored. We store them because if a virus, disease or climate change were to wipe out a particular species of crop, then we have an alternative strain we can try. In the meantime we would face unimaginable food shortages. We should promote diversity in our crops, because circumstances do change.
+
+Within the IoT space we may head towards a similar situation. Where few major companies control the majority of the IoT in our homes and cities. Unfortunately there is no seed bank equivalent for IoT services, we can't just germinate another if ours catastrophically fail (through virus, human error, natural disaster, ?). So we must make sure we support a wide range of companies now. Diversity is important.
+
 #### Security, transparency and data ownership.
 
 First security
@@ -162,7 +168,7 @@ And ideally I'd like people starting to make their own hardware, so the biggest 
 ## Rethinking Decentralisation
 
 
-This isn't a new idea. Library buses have been touring rural areas since XXX.
+This isn't a new idea. Library buses (or Bookmobiles) have been touring rural areas in the UK [since 1857](https://en.wikipedia.org/wiki/Bookmobile#19th_century)!
 
 We talk a lot about how the internet means we can work from anywhere, but more often than not 'anywhere' means anywhere in cites or in our homes. Perhaps it is time to start thinking about internet, IoT and homes that can move.
 
