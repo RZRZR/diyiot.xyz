@@ -139,8 +139,35 @@ A local network is a network of computers. AN internet, not THE internet.
 
 ## ATLIN
 
-![](../images/atlinbox.jpeg) ![](../images/atlinbrowser.jpeg)
+In June 2016 I was given the opportunity to work with the Open IoT studio in Anstruther, Scotland. We were invited to a local school to talk about how IoT could solve their problems or make something interesting for them.
 
+I heard issues familiar from my own teenage years. They experienced zero mobile coverage and limited or intermittent broadband that caused particular problems with:
+* doing web-based school work/research at home (limited or intermittent broadband)
+* social - staying in contact with each other when not at home (no phone coverage)
+* not being able to check bus service or communicate with parents on travel arrangements.
+
+The group were interested in improving their situation, but rather than requesting better infrastructure, they wanted to build their own systems and use IoT in a fun, playful ways. They wanted reasons to get out of the house and they wanted interesting things to do with others.
+
+![](../images/ATLIN4.jpg)
+![](../images/ATLIN3.jpg)
+
+I enjoy working with teenagers. They always want to push against whatever the current norm, not reinventing the wheel, but hacking and building on it to make it their own. It’s an exciting attitude to be around, particularly when we have the ability to prototype their ideas so quickly.
+
+![](../images/ATLIN1.jpg)
+
+Within a couple of days to prototype I worked with 3 teenagers to produce ATLIN; Anstruther Teenage Local Information Network. A local network housed within a red BT telephone box. You don’t need any mobile data coverage or credit to access ATLIN, you simply connect to the WIFI to access games, news, maps, timetables posted by teenagers of Anstruther. A simple wordpress site means it can either be open to anyone to post new content, or users may have to be invited or request access.
+
+
+![](../images/ATLIN2.png)
+
+
+We worked out how ATLIN would be powered (we decided on solar), built an enclosure together and embedded it in a local phone box. It was then loaded with content, including a downloadable zombie game modeled on the harbour ATLIN is based and Music and poems about Anstruther, designed to be experienced in that spot.
+
+ ![](../images/atlinbrowser.jpeg)
+
+Once tested, we discussed how this may be useful across the whole of the small town. What if ATLIN could be part of a mesh network? Although still not connected to the WWW, each module could share ATLIN content. Could the ATLIN hardware have inputs; sensors, buttons, cameras? What are the pros and cons of an approval process for content? What if ATLIN has intermittent WWW access, say if someone took ATLIN home once a week to download an update from their home broadband, would that change how it could be used?
+
+![](../images/atlinbox.jpeg) 
 
 ## Isle of Lewis
 ![](../images/isleoflewis.jpeg)
