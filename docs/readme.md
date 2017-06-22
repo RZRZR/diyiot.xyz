@@ -1,15 +1,18 @@
-## Project Breakdown for tiny IoT home (in a van)
+## Intro
 
+[Decentralisation in the Internet of Things with Mozilla Foundation's OpenIOT Studio]()
+
+
+## Project Breakdown for tiny IoT home (in a van)
 
 [Solar Power](solar.md)
 
+[Coming Soon: Solar/Battery Monitoring]
 
-[Solar/Battery Monitoring]()
+[Coming Soon: Water]
 
-[Water](water.md)
+[Coming Soon: Heat]
 
-[Heat]()
+[Coming Soon: Cooking]
 
-[Cooking]()
-
-[Internet Connected Fridge]()
+[Coming Soon: Internet Connected Fridge]
