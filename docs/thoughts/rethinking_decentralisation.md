@@ -107,21 +107,25 @@ For balance, some advantages big companies have:
  * Money for product innovation.
  * Money for advertising and public education.
 
-Often people will understandably feel that they have no choice but choose products made by the mainstream companies. However, as consumers we are not only buying a product, but we are supporting a company when we buy things. We can ask companies to change products and practices, and we can stop buying from them if they don't.
+Often people will understandably feel that they have no choice but choose products made by the big companies. However, when we spend money or time, we are not only buying a product, but we are supporting a company. We can ask companies to change products and practices, and we can stop buying from them if they don't.
 
-I invite people to think about [seed banks](https://en.wikipedia.org/wiki/Seed_bank) (bare with me). In the last 50 years crop diversity has massively diminished, genetic diversity within each crop (fewer strains) and the number of different species grown. All over the globe we have facilities where every strain of seed is carefully stored. We store them because if a virus, disease or climate change were to wipe out a particular species of crop, then we have an alternative strain we can try. In the meantime we would face unimaginable food shortages. We should promote diversity in our crops, because circumstances do change.
+I invite people to think about [seed banks](https://en.wikipedia.org/wiki/Seed_bank) (bare with me). In the last 50 years crop diversity has massively diminished, genetic diversity within each crop (fewer strains) and the number of different species grown. All over the globe we have facilities where every strain of seed is carefully stored. We store them because if a virus, disease or climate change were to wipe out a particular species of crop, then we have an alternative strain we can try. But in the meantime we would face unimaginable food shortages. We should promote diversity in our crops, because circumstances do change.
 
-Within the IoT space we may head towards a similar situation. Where few major companies control the majority of the IoT in our homes and cities. Unfortunately there is no seed bank equivalent for IoT services, we can't just germinate another if ours catastrophically fail (through virus, human error, natural disaster, ?). So we must make sure we support a wide range of companies now. Diversity is important.
+Within the IoT ecosystem we may head towards a similar situation. Where a few major companies control the majority of the IoT in our homes and cities. Unfortunately there is no seed bank equivalent for IoT services, we can't just germinate another if ours catastrophically fail (through virus, human error, natural disaster, ?). So we must make sure we support a wide range of companies now. Diversity is important.
 
 #### Security, transparency and data ownership.
 
-First security
+Security - I will be brief, because there is so much information on internet and IoT security failures. Simply, if we built primarily decentralised systems, not as much of our data would need to be stored on servers out of our control.
+I will share two links which should be enough to freak you out:
+* [haveibeenpwned.com](https://haveibeenpwned.com/) to see if any of your account details have been compromised in any major security breach.
+* [http://www.insecam.org/](http://www.insecam.org/) a large directory of insecure public webcams. These haven't been hacked, they have been left insecure by the manufacturers.
 
 Data ownership
 
+
 Transparency
 
-I recommend you check out [haveibeenpwned.com](https://haveibeenpwned.com/) to see if any of your account details have been compromised.
+
 
 #### Local Networks
 
