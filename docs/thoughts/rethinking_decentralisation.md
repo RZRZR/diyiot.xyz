@@ -92,7 +92,7 @@ When we discuss decentralisation within IoT, we're often talking about:
 * Local networks.
 
 
-These are closely intertwined concerns within the IoT community at the moment. It's worth noting these are issues that are still hotly debated about the world wide web, let alone IoT which is a much younger technology. I certainly don't claim to have any definitive solutions, but let's examine these issues a little closer.
+These concerns interweave, but I attempt to tease them out. It's worth noting these are issues that are still hotly debated about the world wide web, let alone IoT, a much younger technology. I certainly don't claim to have any definitive solutions, but let's examine these issues a little closer.
 
 #### All IoT services run by a few big companies.
  So, why would this be a problem? Well..
@@ -117,12 +117,13 @@ To push the analogy a little further, decentralised systems quarantine themselve
 
 #### Security, transparency and data ownership.
 
-Security - I will be brief, because there is so much information on internet and IoT security failures. Simply, if we built primarily decentralised systems, not as much of our data would need to be stored on servers out of our control.
+Security - I will be brief, because there is so much information on internet and IoT security failures.
+Imagine for a moment, if every minute detail of your daily life - when you turned the light out to go to bed, when you wake up, when you turn the heating on, what you watch on tv, etc. was owned by a company, and that data was breached. Simply, if we built primarily decentralised systems, not as much of our data would need to be stored on servers out of our control.
 I will share two links which should be enough to freak you out:
-* [haveibeenpwned.com](https://haveibeenpwned.com/) to see if any of your account details have been compromised in any major security breach.
+* [haveibeenpwned.com](https://haveibeenpwned.com/) to see if any of your accounts have been compromised in any major security breach.
 * [http://www.insecam.org/](http://www.insecam.org/) a large directory of insecure public webcams. These haven't been hacked, they have been left insecure by the manufacturers.
 
-Data ownership
+Data ownership -
 
 
 Transparency
