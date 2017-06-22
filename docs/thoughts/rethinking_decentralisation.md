@@ -24,7 +24,7 @@ Before this I ran a Arts and Tech venue in Norwich called Soup Lab.
 
 **Why?** Because if we want to make tech for everyone, then we need to include them in the progress.
 
-## Talking about IoT & decentralisation?
+## Talking about IoT & decentralisation
 
 Within this project I will be discussing IoT and decentralisation with people who have no experience of making technology, and perhaps little experience using it.
 
@@ -77,3 +77,34 @@ This is a very simple example, but I hope it goes some way in showing how we can
 When we discuss decentralisation within IoT, we're often talking about two closely related things:
 * Making sure not ALL services run (and data collected) by a few big companies.
 * Local networks. A local network can be network of computers in your home. AN internet, not THE internet.
+
+### Why should I care?
+
+Well.
+
+## ATLIN
+
+## Isle of Lewis
+
+## Rethinking Decentralisation
+
+
+This isn't a new idea. Library buses have been touring rural areas since XXX.
+
+We talk a lot about how the internet means we can work from anywhere, but more often than not 'anywhere' means anywhere in cites or in our homes. Perhaps it is time to start thinking about internet, IoT and homes that can move.
+
+### Next Steps
+
+Since returning I have reconsidered how I frame decentralisation and how I might be able to reach communities that don't often get invited to think about how the internet and IoT may be beneficial for them.
+
+Part of this will be building a tiny IoT home on wheels. This means I can have discussions with people anywhere about how IoT within their own home could benefit them, whilst promoting ethical IoT, and perhaps more knowledge to be able to understand what IoT they are buying.
+
+And ideally I'd like people starting to make their own hardware, so the biggest part of my next steps is documenting each step of my Tiny IoT home build, see more below.
+
+### Open Hardware
+
+A quick overview of what Open Hardware is, and how my building and documenting works.
+
+I will be updating build sections as I go. Some of be very focused on IoT (e.g. hacked Solar Monitor, and IoT Fridge) and some wont have any (cutting list for the cabinets).
+
+A lot of what I will be documenting I wont have worked out on totally my own. Much of the software will have been based on projects which already exist and I may have been signposted to particular bits of hardware by others who have tried out things before me. One of the major joys of the internet is the mass exchange of knowledge, we no longer have to reinvent the wheel over and over. Knowing how to search through and digest massive amounts of information is now a more daunting task than finding it in the first place. I will endeavour to link back to original sources whenever I am able and will try and remember to explain *how* I found information too.
