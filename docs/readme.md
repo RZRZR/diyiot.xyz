@@ -1,4 +1,4 @@
-## Thoughts
+## IoT Thoughts
 
 Exploring decentralisation in the Internet of Things with Mozilla Foundation's OpenIOT Studio
 
