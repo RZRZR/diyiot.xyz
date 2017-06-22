@@ -26,10 +26,20 @@ Before this I ran a Arts and Tech venue in Norwich called Soup Lab.
 
 #### Talking about IoT & what is Decentralisation?
 
-> The Internet of things (IoT) is the inter-networking of physical devices … embedded with electronics, software, sensors, actuators, and network connectivity which enable these objects to collect and exchange data.
- - Internet of things, https://en.wikipedia.org/w/index.php?title=Internet_of_things&oldid=781813467 (last visited May 23, 2017).
 
- Makes sense to be, but would be difficult to explain to my grandma. How about...
+> The Internet of things (IoT) is the inter-networking of physical devices … embedded with electronics, software, sensors, actuators, and network connectivity which enable these objects to collect and exchange data.
+ - Internet of things, [https://en.wikipedia.org/w/index.php?title=Internet_of_things&oldid=781813467]( https://en.wikipedia.org/w/index.php?title=Internet_of_things&oldid=781813467) (last visited May 23, 2017).
+
+ Makes sense to me, but would be difficult to explain to my grandma. How about...
 
  > Small computers that talk to each other.
 - me
+
+#### Decentralisation
+When we discuss decentralisation within IoT, we're often talking about two things:
+* Making sure not ALL services run (and data collected) by a few big companies
+* Local Networks. A local network can be network of computers in your home. AN internet, not THE internet.
+
+
+
+![Decentralisation vs Centralisation](../images/decentralised.gif)
