@@ -9,8 +9,8 @@
 
 #define ARRAY_SIZE(A) (sizeof(A) / sizeof((A)[0]))
 
-const char* WIFI_SSID     = "Zoombinis-Van"; //your wifi SSID/name
-const char* WIFI_PASS = "MoistVonLipwig"; //your wifi password
+const char* WIFI_SSID     = ""; //your wifi SSID/name
+const char* WIFI_PASS = ""; //your wifi password
 
 int timerTask1, timerTask2, timerTask3;
 float battBhargeCurrent, bvoltage, ctemp, btemp, lpower, lcurrent, pvvoltage, pvcurrent, pvpower, pvcurrent12, batt_left_charge;
@@ -57,7 +57,7 @@ void setup()
   delay(10000);
   if (debug == 1){
     Serial.println("");
-    Serial.println("WiFi connected");  
+    Serial.println("WiFi connected");
     Serial.println("IP address: ");
     Serial.println(WiFi.localIP());
     delay(5000);
@@ -150,7 +150,7 @@ void AddressRegistry_3100() {
       Serial.print("Left over amps for battery: ");
       Serial.println(batt_left_charge);
 
-      
+
       Serial.println();
     }
   } else {
@@ -232,15 +232,15 @@ void loop()
       Serial.println(ctemp);
     }
     Serial.print("Battery Voltage: ");
-    
-    bvoltage = node.getResponseBuffer(0x04)/100.0f; 
+
+    bvoltage = node.getResponseBuffer(0x04)/100.0f;
     if (debug == 1){
       Serial.println(bvoltage);
     }
   Serial.print("Load Power: ");
     lpower = ((long)node.getResponseBuffer(0x0F)<<16|node.getResponseBuffer(0x0E))/100.0f;
     if (debug == 1){
-       Serial.println(lpower);    
+       Serial.println(lpower);
        Serial.print("Load Current: ");
     }
     lcurrent = (long)node.getResponseBuffer(0x0D)/100.0f;
@@ -267,7 +267,6 @@ void loop()
   }else{
     rs485DataReceived = false;
   }
-  
+
   timer.run();
 }
-

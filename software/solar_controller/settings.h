@@ -12,7 +12,7 @@
 /*
      Blynk Auth Codes
 */
-#define AUTH                            "fbd4335746ae4cd48cda019afba88f92"
+#define AUTH                            ""
 /*
    Local Server Settings
    Comment out to use Cloud Server

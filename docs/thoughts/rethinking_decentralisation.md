@@ -69,14 +69,53 @@ So let's give it a go with IoT. First to introduce what the Internet of Things i
 
 This is a very simple example, but I hope it goes some way in showing how we can start discussions about what IoT is with absolutely anyone.
 
+So, the tech savvy among you will notice I left out part of the data's journey in the example above. Rather than my phone talking directly to the computer in my home, it actually talks to a central server *in the cloud* owned by a company that made my boiler's relay*.
+
+This is described as a centralised system, because rather than data going from one device directly to another, it all gets beamed up to a central system to be processed and either collected or acted upon.
+
+I'll talk a bit more about why this is important in the next section.
+
+
+<sub>
+*** In fact the software system may be owned by a different company, the data might pass through several companies servers before it reaches the hardware. </sub>
+
 ### Decentralisation
 
 ![Decentralisation vs Centralisation](../images/decentralised.gif)
 
 
-When we discuss decentralisation within IoT, we're often talking about two closely related things:
-* Making sure not ALL services run (and data collected) by a few big companies.
-* Local networks. A local network can be network of computers in your home. AN internet, not THE internet.
+When we discuss decentralisation within IoT, we're often talking about:
+* Advocating for an alternative to all IoT services to be run (and data collected) by a few big companies.
+* Security, transparency and data ownership.
+* Local networks.
+
+
+These are closely intertwined concerns within the IoT community at the moment. It's worth noting these are issues that are still hotly debated about the world wide web, let alone IoT which is a much younger technology. I certainly don't claim to have any definitive solutions, but let's examine these issues a little closer.
+
+**All IoT services run by a few big companies.**
+ So, why would this be a problem? Well..
+ * Lack of transparency. Everyone has experienced (i.e. ignored and accepted) the terms and conditions on services we use. Even when you do read them, it's often technical and legal jargon making it unclear what these companies actually do with your information.
+ * If the service is down you may be left without the use of vital services in your home.
+ * Redundant hardware. If the company goes out or business or is sold, or a even just the product discontinued you may end up with hardware that no longer functions correctly.
+ * Brand lock-in. These companies may make hardware that will only talk with other products made by them.
+
+For balance, some advantages big companies have:
+
+ * Security, you would hope they would have the money and expertise to make sure your data is safe. More on this later.
+ * Money for product innovation.
+ * Money for advertising and public education.
+
+**Security, transparency and data ownership.**
+
+First security
+
+Data ownership
+
+Transparency
+
+I recommend you check out [haveibeenpwned.com](https://haveibeenpwned.com/) to see if any of your account details are in any hacked/leaked data dumps.
+
+A local network can be network of computers in your home. AN internet, not THE internet.
 
 ### Why should I care?
 
