@@ -63,9 +63,9 @@ An input might be a sensor (it might be able to sense the temperature, or light 
 
 An output can be almost anything. It can control relays (which act as an on/off switch for any device - like a boiler or a fan or a smoke machine!). The output might be light (a display panel or an LED light) or sound (an annoying buzzer or a song).
 
-> So in this example your phone uses it's GPS sensor to collect your location data, then sends this information through your data plan to a computer in your home on the WIFI. That computer takes that information and runs some code that says "I expect Rachel to be home by 6, but her phone says she is in Hawaii, so I wont turn on my relay controlling the boiler until her phone tells me she is close by."
+So in this example your phone uses it's GPS sensor to collect your location data, then sends this information through your data plan to a computer in your home on the WIFI. That computer takes that information and runs some code that says "I expect Rachel to be home by 6, but her phone says she is in Hawaii, so I wont turn on my relay controlling the boiler until her phone tells me she is close by."
 
->**This is usually when participants feel confident enough to start to think about useful inputs and outputs for themselves.**
+**This is usually when participants feel confident enough to start to think about useful inputs and outputs for themselves.**
 
 This is a very simple example, but I hope it goes some way in showing how we can start discussions about what IoT is with absolutely anyone.
 
