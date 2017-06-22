@@ -1,9 +1,14 @@
-## Intro
+## Thoughts
 
-[Decentralisation in the Internet of Things with Mozilla Foundation's OpenIOT Studio]()
+Exploring decentralisation in the Internet of Things with Mozilla Foundation's OpenIOT Studio
 
+## Project: ATLIN
 
-## Project Breakdown for tiny IoT home (in a van)
+## Project: PLAYBOARD
+
+## Project: STATUS
+
+## Project breakdown for tiny IoT home (in a van)
 
 [Solar Power](solar.md)
 
