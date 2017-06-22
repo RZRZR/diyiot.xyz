@@ -113,6 +113,8 @@ I invite people to think about [seed banks](https://en.wikipedia.org/wiki/Seed_b
 
 Within the IoT ecosystem we may head towards a similar situation. Where a few major companies control the majority of the IoT in our homes and cities. Unfortunately there is no seed bank equivalent for IoT services, we can't just germinate another if ours catastrophically fail (through virus, human error, natural disaster, ?). So we must make sure we support a wide range of companies now. Diversity is important.
 
+To push the analogy a little further, decentralised systems quarantine themselves from some of this threats. If you are not *online*, then someone would have to come and physically interfere with your system, which is much less likely.
+
 #### Security, transparency and data ownership.
 
 Security - I will be brief, because there is so much information on internet and IoT security failures. Simply, if we built primarily decentralised systems, not as much of our data would need to be stored on servers out of our control.
