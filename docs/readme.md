@@ -1,14 +1,16 @@
-## IoT Thoughts
-
+## IoT Thoughts:
 Exploring decentralisation in the Internet of Things with Mozilla Foundation's OpenIOT Studio
 
-## Project: ATLIN
+## Project Write ups:
 
-## Project: PLAYBOARD
+ATLIN
+PLAYBOARD
+STATUS
 
-## Project: STATUS
 
-## Project breakdown for tiny IoT home (in a van)
+## Project DIY: tiny IoT home
+
+Intro
 
 [Solar Power](solar.md)
 
