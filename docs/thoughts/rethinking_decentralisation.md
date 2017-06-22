@@ -4,7 +4,7 @@ In late 2016 was invited my Mozilla's OpenIOT Studio to think about Decentralisa
 
 But first let's start from the basics...
 
-#### Who am I and what I'm interested in
+#### Who I am and what I'm interested in
 
 I'm a creative technologist. I come from an arts background, I'm self taught techy who has always been interested in how things work. I'm a really good google-until-I-find-the-solution maker.
 
@@ -25,3 +25,11 @@ Before this I ran a Arts and Tech venue in Norwich called Soup Lab.
 **Why?** Because if we want to make tech for everyone, then we need to include them in the progress.
 
 #### Talking about IoT & what is Decentralisation?
+
+> The Internet of things (IoT) is the inter-networking of physical devices … embedded with electronics, software, sensors, actuators, and network connectivity which enable these objects to collect and exchange data.
+ - Internet of things, https://en.wikipedia.org/w/index.php?title=Internet_of_things&oldid=781813467 (last visited May 23, 2017).
+
+ Makes sense to be, but would be difficult to explain to my grandma. How about...
+
+ > Small computers that talk to each other.
+- me
