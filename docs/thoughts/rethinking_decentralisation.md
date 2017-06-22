@@ -4,7 +4,7 @@ In late 2016 was invited my Mozilla's OpenIOT Studio to think about Decentralisa
 
 But first let's start from the basics...
 
-#### Who I am and what I'm interested in
+## Who I am and what I'm interested in
 
 I'm a creative technologist. I come from an arts background, I'm self taught techy who has always been interested in how things work. I'm a really good google-until-I-find-the-solution maker.
 
@@ -24,22 +24,56 @@ Before this I ran a Arts and Tech venue in Norwich called Soup Lab.
 
 **Why?** Because if we want to make tech for everyone, then we need to include them in the progress.
 
-#### Talking about IoT & what is Decentralisation?
+## Talking about IoT & decentralisation?
 
+Within this project I will be discussing IoT and decentralisation with people who have no experience of making technology, and perhaps little experience using it.
+
+Before embarking on any project that involves participants of different skills and backgrounds it's useful to reflect on the language we use. Using too much technical jargon in the initial stages of the discussion is a sure-fire way of alienating half your new team. We want to build confidence and skills, so we don't want to dumb down the discussion, but with a little time and effort we can develop a narrative that leaves everyone feeling like they know what's actually being discussed.
+
+*Sidenote: it can also help your technically skilled members of the team be reminded that we are talking about how the technology affects people, rather than the technology itself. Impact rather than solutions.*
+
+**How I develop a narrative within a workshop/discussion.**
+
+Have you watched the The Good Wife? Check out Decision Tree (S05E10). The characters are trying to predict how their opponent (each other) will question/answer in court.
+
+![The Good Wife Decision Tree](../images/goodwifedecisiontree.jpg)
+
+No-one is trying to trick the other into admitting something in our situation, but running what questions might be asked and how you answer them; a balance of giving enough information and context whilst staying on topic and within time constraints is an important skill in managing the narrative within a workshop.
+
+I also think a nice big mental bank of examples is really useful. Try and tailor your examples to the crowd you are talking to - Children and teenagers don't care much about saving money on their central heating.
+
+So let's give it a go with IoT. First to introduce what the Internet of Things is...
 
 > The Internet of things (IoT) is the inter-networking of physical devices … embedded with electronics, software, sensors, actuators, and network connectivity which enable these objects to collect and exchange data.
  - Internet of things, [https://en.wikipedia.org/w/index.php?title=Internet_of_things&oldid=781813467]( https://en.wikipedia.org/w/index.php?title=Internet_of_things&oldid=781813467) (last visited May 23, 2017).
 
- Makes sense to me, but would be difficult to explain to my grandma. How about...
+ Makes sense to me, but would be difficult to explain to my grandma. How about we start with...
 
- > Small computers that talk to each other.
-- me
+>**Me:** IoT is made up of computers that talk to each other.
 
-#### Decentralisation
-When we discuss decentralisation within IoT, we're often talking about two things:
-* Making sure not ALL services run (and data collected) by a few big companies
-* Local Networks. A local network can be network of computers in your home. AN internet, not THE internet.
+>**Group:** Why would they need to?
 
+>**M:** They can exchange information. They can use that information to make better decisions in whatever they are doing. E.G. if my central heating knows I'm on holiday or late at the office, it can save energy by not turning on until I return.
 
+>**G:** How does the computer know I'm on holiday or late?
+
+>**M:** These computers generally have inputs and outputs.
+
+> An input might be a sensor (it might be able to sense the temperature, or light levels, or pollution in the air) or an input might be information from the internet (like the weather forecast) or information on your phone (like your GPS coordinates).
+
+> An output can be almost anything. It can control relays (which act as an on/off switch for any device - like a boiler or a fan or a smoke machine!). The output might be light (a display panel or an LED light) or sound (an annoying buzzer or a song).
+
+> So in this example your phone uses it's GPS sensor to collect your location data, then sends this information through your data plan to a computer in your home on the WIFI. That computer takes that information and runs some code that says "I expect Rachel to be home by 6, but her phone says she is in Hawaii, so I wont turn on my relay controlling the boiler until her phone tells me she is close by."
+
+>**This is usually when participants feel confident to start to think about useful inputs and outputs for themselves.**
+
+This is a very simple example, but I hope it goes some way in showing how we can start discussions about what IoT is with absolutely anyone.
+
+### Decentralisation
 
 ![Decentralisation vs Centralisation](../images/decentralised.gif)
+
+
+When we discuss decentralisation within IoT, we're often talking about two closely related things:
+* Making sure not ALL services run (and data collected) by a few big companies.
+* Local networks. A local network can be network of computers in your home. AN internet, not THE internet.
