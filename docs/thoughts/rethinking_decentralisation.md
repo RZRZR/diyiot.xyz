@@ -8,13 +8,15 @@ But first let's start from the basics...
 
 I'm a creative technologist. I come from an arts background, I'm self taught techy who has always been interested in how things work. I'm a really good google-until-I-find-the-solution maker.
 
-I believe anyone can make things with technology with the right guides and enough confidence. I spend a lot of my time thinking about this.
+I believe anyone can make things with the right guides and enough confidence.
 
-I worked within a [technology charity](http://www.raspberrypi.org) over 3 years before going back into the freelance world late 2016 to have the opportunity to take part in projects like this one with Mozilla's OpenIOT Studio. Within this role I got to travel the world attending conferences and festivals where people discussed new technology and the power of making. I also designed and ran workshops, outreach and longer form educational programmes.
+I worked within a [technology charity](http://www.raspberrypi.org) over 3 years. Within this role I got to travel the world attending conferences and festivals where people discussed new technology and the power of making. I also designed and ran workshops, outreach and longer form educational programmes.
+
+I returned to the freelance world in 2016 to have the opportunity to take part in projects like this one.
 
 I also make tech with [The Pi Hut](http://www.thepihut.com), particularly focusing on making add-on boards for people new to making. Our aim is for our boards to do one thing well.
 
-Before this I ran a Arts and Tech venue in Norwich called Soup Lab.
+Before all this I ran a Arts and Tech venue in Norwich called Soup Lab.
 
 **Some things I’m generally interested in right now:**
 *  a friendly framework/language to talk about IoT with non-techies
@@ -23,6 +25,7 @@ Before this I ran a Arts and Tech venue in Norwich called Soup Lab.
 * does IoT widen the divide between those with good connectivity and those without (if so, how do we deal with this?)
 
 **Why?** Because if we want to make tech for everyone, then we need to include them in the progress.
+
 
 ## Talking about IoT & decentralisation
 
@@ -124,6 +127,8 @@ I will share two links which should be enough to freak you out:
 * [haveibeenpwned.com](https://haveibeenpwned.com/) to see if any of your accounts have been compromised in any major security breach.
 * [http://www.insecam.org/](http://www.insecam.org/) a large directory of insecure public webcams. These haven't been hacked, they have been left insecure by the manufacturers.
 
+
+```
 Data ownership -
 
 
@@ -135,11 +140,27 @@ Transparency
 
 A local network is a network of computers. AN internet, not THE internet.
 
+```
 
+## My Internet use & lack of connectivity.
+
+Since the start of the project I have taken a good look at my own internet use. I no longer visit my local library - I have an e-reader and access to more books than any library network could hold. I no longer go to the cinema or record shops - there’s more TV, movies and music on my live streaming subscriptions that I could ever consume. I rarely go shopping at all - I have a delivery pass which means groceries, gadgets, clothes and even gifts arrive the next day, sometimes with a single button press.
+
+This is unhealthy for me and not the future I want for others. Since this project started I have been making changes to become more decentralised. I use local shops and local public services. I'm still not a purist, I use some services and products made by big companies. It doesn't have to be all or nothing. Small conscious changes add up.
+
+Of course, I'm privileged enough to have a choice whether I use services or not. I have access to these delivery/online services because I live within range of distribution hubs and broadband junction boxes. This wasn’t the case growing up in rural Norfolk, UK ~15 years ago. We had a dial-up connection through our telephone line (rendering our home phone useless) and limited to 6pm - 6am. I would play on Neopets, chat on MSN messenger with school friends and if I was lucky, I could download up to 3 songs a night! I thought it was amazing. The connectivity infrastructure didn’t improve much in the following 15 years, and up until 2015 we still had to deal with broadband speeds close to dial up (and it still sometimes knocked out the home phone line). Forget about streaming any media, it was difficult to load image-heavy webpages. There was no phone coverage of any kind for around 4 miles in any direction.
+
+The majority (but not all) of the UK is now within range; broadband in their homes, data signal on their mobile devices, couriers and supermarkets cater for their postcode. Even if all populated areas had the infrastructure to deliver services (and this is definitely not the case), this does not mean everyone has the economic means. It’s incredibly easy to forget about those out of range.
+
+Some examples of lack of connectivity I've encountered in workshops:
+
+* Zero connectivity - Lack of equipment, technical expertise or economic situation. It could be that there’s no infrastructure; no mobile data signal, no broadband.
+* Limited connectivity - slow speeds, school blocking website, high cost of data.
+* Intermittent connectivity - no Internet at home, so must be accessed via a school, library or Internet cafe. Connection effected by weather.
 
 ## ATLIN
 
-In June 2016 I was given the opportunity to work with the Open IoT studio in Anstruther, Scotland. We were invited to a local school to talk about how IoT could solve their problems or make something interesting for them.
+I was given the opportunity to work with the Open IoT studio in Anstruther, Scotland. We were invited to a local school to talk about how IoT could solve their problems or make something interesting for them.
 
 I heard issues familiar from my own teenage years. They experienced zero mobile coverage and limited or intermittent broadband that caused particular problems with:
 * doing web-based school work/research at home (limited or intermittent broadband)
@@ -167,52 +188,107 @@ We worked out how ATLIN would be powered (we decided on solar), built an enclosu
 
 Once tested, we discussed how this may be useful across the whole of the small town. What if ATLIN could be part of a mesh network? Although still not connected to the WWW, each module could share ATLIN content. Could the ATLIN hardware have inputs; sensors, buttons, cameras? What are the pros and cons of an approval process for content? What if ATLIN has intermittent WWW access, say if someone took ATLIN home once a week to download an update from their home broadband, would that change how it could be used?
 
-![](../images/atlinbox.jpeg) 
+![](../images/atlinbox.jpeg)
+
+
+## Decentralising access to information through IoT
+
+To explore some of these questions, we are looking to expand on this work by developing resources alongside small communities enabling them to build resilient and decentralised services that are meaningful for their community. We are focusing on building technology that brings people together in a place, rather than making it easier for people to stay home.
+
+An important part of this progress is providing simple educational resources so any changes or maintenance can be carried out by the community.
+
 
 ## Isle of Lewis
-![](../images/isleoflewis.jpeg)
+
+With this in mind I visited the Lewis and Harris, a Scottish island in the Outer Hebrides.
+
 ![](../images/map.jpeg)
+
+
+Lewis and Harris is one the least connected areas in the UK, in terms of phone and data coverage. My aim was to find some people to talk to about perhaps developing something like ATLIN. A local network where people could leave content to share with others.
+
 ![](../images/signalstrength.jpeg) - opensignal.com
+
+Although we had a contact on the island, the lack of connectivity made it impossible to reach with them. We were also there during [Storm Doris](http://www.metoffice.gov.uk/barometer/uk-storm-centre/storm-doris), the high winds were apparently making the already poor signal much worse. We were on our own.
+
 ![](../images/searching.jpeg)
 
-![](../images/telephonebox.jpeg)
-![](../images/paypalcampingspot.jpeg)
+However, the upside of the weather and it being off season was every shopkeeper, Harris Tweed maker and whomever was taking shelter near us was more than happy to chat with us whilst waiting for a break in the rain.
+
+![](../images/isleoflewis.jpeg)
+
+Each time I begun by explaining IoT, decentralisation and ATLIN. Every time I was directly or indirectly told that wouldn't be of much interest here. Why would they travel to a phonebox or whatever to look up things on their phone when they could talk and exchange ideas when they met at various other occasions.
+
+I felt I'd made a fundamental mistake. This community is a small population on a small island, they are good at communicating without the internet - they have been doing it for a very long time. They didn't feel like they were missing out on news from each other, but they wanted new information.
+
+Feeling dishearten and worried this might have been a wasted trip, at first I hadn't noticed that every conversation found it's way to my DIY techy campervan we were traveling in.
 
 ![](../images/oldvan.jpeg)
 
-## Discovering vanlife
+We would talk about the solar powered battery was monitored. How power hungry particular appliances were. How I kept track of water storage and use. I had a sensor monitoring temperature and humidity hooked up to the heater so it would regulate itself, whilst being aware of the status of the battery.
+
+Without realising we are discussing about how useful a decentralised network of sensors is in a [temporary] home. This happened again and again. This campervan was a perfect collection of prompts and examples. People began to imagine what useful things they could have in their home.
+
+This wasn't the trip I expected, but it ended up being full of great conversations about decentralised DIY IoT.
+
+After some more reflection I realised having a tiny home on wheels was a great framework and physical prop to think about decentralisation - this is a home which is by definition off-grid. All those sensors that may feel irreverent or self indulgent in a 'real' house are really important in a rolling home. You need to keep track of your power usage and your water supply. If you run out of gas you wont have any heat or cooking facilities. You must monitor your resources, and any way to make that easier is really welcome.
+
+An additional benefit is it moves - so we could visit all kinds of communities that don't normally get included in the discussion about IoT.
+
+
+## #Vanlife and prototypes
+
+The #Vanlife hashtag was not on my radar. Turns out there is a massive community of people traveling and living in DIY campervans.
+
+As a side project I built some tiny and cheap IoT modules that monitored temperature, humidity, battery voltage and GPS coordinates. The cheap WIFI chip acted as an access point (you could connect to it as a WIFI network).
 
 ![](../images/vanlifeiot.jpeg)
 ![](../images/van_dashboard_mk1.jpeg)
 
-![](../images/solarmonitor.jpeg)
-![](../images/solarhack.jpeg)
-![](../images/van_dashboard.png)
-
-
-## Next Steps
-
-Since returning I have reconsidered how I frame decentralisation and how I might be able to reach communities that don't often get invited to think about how the internet and IoT may be beneficial for them.
-
-Part of this will be building a tiny IoT home on wheels. This means I can have discussions with people anywhere about how IoT within their own home could benefit them, whilst promoting ethical IoT, and perhaps more knowledge will lead to better understanding of what IoT they are buying.
-
-And ideally I'd like people starting to make their own hardware, so the biggest part of my next steps is documenting the progress of my Tiny IoT home build, see more below.
-
-![](../images/newvan.jpeg)
 
 ## Rethinking Decentralisation
 
+I've started to think about decentralisation differently.
 
 This isn't a new idea. Library buses (or Bookmobiles) have been touring rural areas in the UK [since 1857](https://en.wikipedia.org/wiki/Bookmobile#19th_century)!
 
 We talk a lot about how the internet means we can work from anywhere, but more often than not 'anywhere' means anywhere in cites or in our homes. Perhaps it is time to start thinking about internet, IoT and homes that can move.
 
 
+## Extra conclusions / thoughts
 
+* Good examples remain important.
+* Having physical props to discuss abstract ideas is useful.
+* No two communities are the same, one size doesn't fit all and we have to be reminded of that **every time** we do anything. Presuming you know what people will want/need is a disaster waiting to happen.
 
-## Open Hardware
+## Next Steps
 
-A quick overview of what Open Hardware is, and how my building and documenting works.
+I have reconsidered how I frame decentralisation and how I might be able to reach communities that don't often get invited into conversations about how the internet and IoT may be beneficial for them.
+
+Part of this will be building a tiny IoT home on wheels. This will aid discussions with people about how IoT within their own home could benefit them, whilst promoting ethical IoT and perhaps bettering understanding of what IoT they are buying.
+
+But ideally I'd like people starting to make their own hardware, so the biggest part of my next steps is documenting the progress of my Tiny IoT home build, see more below.
+
+![](../images/newvan.jpeg)
+
+I have worked out how to replace my solar controller monitor with a little WIFI board so I am now able to extract my data and do whatever I please with it.
+
+![](../images/solarmonitor.jpeg)
+
+![](../images/solarhack.jpeg)
+
+I think I've also managed to make the first actually useful IoT Fridge.
+[(IoT joke)](http://fuckyeahinternetfridge.tumblr.com/)
+
+![](../images/van_dashboard.png)
+
+![](../images/fridge.jpg)
+
+Write ups to follow.
+
+## Quick final note on whats to come:
+
+A quick overview of what Open Hardware is, and how my building and documenting will work.
 
 I will be updating build sections as I go. Some of be very focused on IoT (e.g. hacked Solar Monitor, and IoT Fridge) and some wont have any (cutting list for the cabinets).
 
