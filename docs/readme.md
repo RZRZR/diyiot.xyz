@@ -14,7 +14,7 @@ STATUS
 
 Intro
 
-[Solar Power](tinyiothome/solar.md)
+[Solar Power]
 
 [Coming Soon: Solar/Battery Monitoring]
 

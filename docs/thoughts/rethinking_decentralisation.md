@@ -198,7 +198,7 @@ To explore some of these questions, we are looking to expand on this work by dev
 An important part of this progress is providing simple educational resources so any changes or maintenance can be carried out by the community.
 
 
-## Isle of Lewis
+## Lewis and Harris
 
 With this in mind I visited the Lewis and Harris, a Scottish island in the Outer Hebrides.
 
@@ -225,7 +225,7 @@ Feeling dishearten and worried this might have been a wasted trip, at first I ha
 
 ![](../images/oldvan.jpeg)
 
-We would talk about the solar powered battery was monitored. How power hungry particular appliances were. How I kept track of water storage and use. I had a sensor monitoring temperature and humidity hooked up to the heater so it would regulate itself, whilst being aware of the status of the battery.
+We would talk about how the solar powered battery was monitored. How power hungry particular appliances were. How I kept track of water storage and use. I had a sensor monitoring temperature and humidity hooked up to the heater so it would regulate itself, whilst being aware of the status of the battery.
 
 Without realising we are discussing about how useful a decentralised network of sensors is in a [temporary] home. This happened again and again. This campervan was a perfect collection of prompts and examples. People began to imagine what useful things they could have in their home.
 
@@ -233,7 +233,7 @@ This wasn't the trip I expected, but it ended up being full of great conversatio
 
 After some more reflection I realised having a tiny home on wheels was a great framework and physical prop to think about decentralisation - this is a home which is by definition off-grid. All those sensors that may feel irreverent or self indulgent in a 'real' house are really important in a rolling home. You need to keep track of your power usage and your water supply. If you run out of gas you wont have any heat or cooking facilities. You must monitor your resources, and any way to make that easier is really welcome.
 
-An additional benefit is it moves - so we could visit all kinds of communities that don't normally get included in the discussion about IoT.
+An additional benefit is obvious - it moves! We could visit all kinds of communities that don't normally get included in the discussion about IoT.
 
 
 ## #Vanlife and prototypes
@@ -242,17 +242,18 @@ The #Vanlife hashtag was not on my radar. Turns out there is a massive community
 
 As a side project I built some tiny and cheap IoT modules that monitored temperature, humidity, battery voltage and GPS coordinates. The cheap WIFI chip acted as an access point (you could connect to it as a WIFI network).
 
+I've sent these out to various #Vanlifers and waiting to hear what we can do next.
+
 ![](../images/vanlifeiot.jpeg)
 ![](../images/van_dashboard_mk1.jpeg)
 
 
 ## Rethinking Decentralisation
 
-I've started to think about decentralisation differently.
+I've started to think about decentralising access to information through IoT differently.
 
-This isn't a new idea. Library buses (or Bookmobiles) have been touring rural areas in the UK [since 1857](https://en.wikipedia.org/wiki/Bookmobile#19th_century)!
+Touring exhibitions is not a new idea. Neither is Library buses (or Bookmobiles), they have been touring rural areas in the UK [since 1857](https://en.wikipedia.org/wiki/Bookmobile#19th_century)!
 
-We talk a lot about how the internet means we can work from anywhere, but more often than not 'anywhere' means anywhere in cites or in our homes. Perhaps it is time to start thinking about internet, IoT and homes that can move.
 
 
 ## Extra conclusions / thoughts
@@ -265,7 +266,7 @@ We talk a lot about how the internet means we can work from anywhere, but more o
 
 I have reconsidered how I frame decentralisation and how I might be able to reach communities that don't often get invited into conversations about how the internet and IoT may be beneficial for them.
 
-Part of this will be building a tiny IoT home on wheels. This will aid discussions with people about how IoT within their own home could benefit them, whilst promoting ethical IoT and perhaps bettering understanding of what IoT they are buying.
+Part of this will be building a tiny IoT home on wheels. This will aid discussions with people about how IoT within their own home could benefit them, whilst promoting DIY IoT and perhaps bettering understanding of what IoT they are buying.
 
 But ideally I'd like people starting to make their own hardware, so the biggest part of my next steps is documenting the progress of my Tiny IoT home build, see more below.
 
@@ -285,11 +286,3 @@ I think I've also managed to make the first actually useful IoT Fridge.
 ![](../images/fridge.jpg)
 
 Write ups to follow.
-
-## Quick final note on whats to come:
-
-A quick overview of what Open Hardware is, and how my building and documenting will work.
-
-I will be updating build sections as I go. Some of be very focused on IoT (e.g. hacked Solar Monitor, and IoT Fridge) and some wont have any (cutting list for the cabinets).
-
-A lot of what I will be documenting I wont have worked out on totally my own. Much of the software will have been based on projects which already exist and I may have been signposted to particular bits of hardware by others who have tried out things before me. One of the major joys of the internet is the mass exchange of knowledge, we no longer have to reinvent the wheel over and over. Knowing how to search through and digest massive amounts of information is now a more daunting task than finding it in the first place. I will endeavour to link back to original sources whenever I am able and will try and remember to explain *how* I found information too.
