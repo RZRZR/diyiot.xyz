@@ -91,7 +91,7 @@ I'll talk a bit more about why this is important in the next section.
 
 When we discuss decentralisation within IoT, we're often talking about:
 * Advocating for an alternative to all IoT services being managed by a few big companies.
-* Security, transparency and data ownership.
+* Security and data ownership.
 * Local networks.
 
 
@@ -118,29 +118,33 @@ Within the IoT ecosystem we may head towards a similar situation. Where a few ma
 
 To push the analogy a little further, decentralised systems quarantine themselves from some of this threats. If you are not *online*, then someone would have to come and physically interfere with your system, which is much less likely.
 
-#### Security, transparency and data ownership.
+#### Security
 
-Security - I will be brief, because there is so much information out there on internet and IoT security failures.
+I will be brief, because there is so much information out there on the WWW about IoT security failures.
 
 Imagine for a moment, if every minute detail of your daily life - when you turned the light out to go to bed, when you wake up, when you turn the heating on, what you watch on tv, etc. was owned by a company, and that data was breached. If we built primarily decentralised systems, not as much of our data would need to be stored on servers out of our control.
 I will share two links which should be enough to freak you out:
 * [haveibeenpwned.com](https://haveibeenpwned.com/) to see if any of your accounts have been compromised in any major security breach.
 * [http://www.insecam.org/](http://www.insecam.org/) a large directory of insecure public webcams. These haven't been hacked, they have been left insecure by the manufacturers.
 
+#### Data ownership
 
-```
-Data ownership -
+Do you own the data your device creates from you? Probably not.
+Who does? The manufacturers.
 
+Do you have access to it? Probably in a dashboard format, you may have to pay additional subscription fees to see more detailed data or historical data.
 
-Transparency
+Can you download the raw data and do your own analysis with it? Unusual.
 
-
+What is your data being used for? Research, personalised advertising, stored until the company figures out how it might be useful.
 
 #### Local Networks
 
-A local network is a network of computers. AN internet, not THE internet.
+A local network is a closed network of computers. AN internet, not THE internet. You may also know them by Intranet.
 
-```
+In the context of IoT, you can imagine a network within your home. The devices do not have access to the WWW and data collected does not get sent to the manufacturer servers. Does my IoT lightbulb really need to be connected to the WWW? Or would be as effective when able to be controlled through my phone only if it's connected to the home WIFI.
+
+Local networks mean you know data does not leave your network, it wont be able to receive automatic updates from the manufacturer, but this also means it can't be [terminated by the manufacturer either](https://www.theguardian.com/technology/2016/apr/05/revolv-devices-bricked-google-nest-smart-home).
 
 ## My Internet use & lack of connectivity.
 
