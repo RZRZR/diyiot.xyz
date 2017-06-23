@@ -1,5 +1,5 @@
 ## IoT Thoughts:
-[Rethinking decentralisation in the Internet of Things](thoughts/rethinking_decentralisation.md)
+[Rethinking decentralisation in the Internet of Things](thoughts/decentralisation.md)
 with Mozilla Foundation's OpenIOT Studio.
 
 ## Project Write ups:
