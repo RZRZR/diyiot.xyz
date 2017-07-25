@@ -6,7 +6,7 @@ But first let's start from the basics...
 
 ## Who I am and what I'm interested in
 
-I'm a creative technologist. I come from an arts background, I'm self taught techy who has always been interested in how things work. I'm a really good google-until-I-find-the-solution maker.
+I'm a creative technologist. I come from an arts background, I'm self taught techie who has always been interested in how things work. I'm a really good google-until-I-find-the-solution maker.
 
 I believe anyone can make things with the right guides and enough confidence.
 
