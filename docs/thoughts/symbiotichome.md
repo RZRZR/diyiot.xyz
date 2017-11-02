@@ -58,4 +58,34 @@
 
 
 
+## Hardware
+
+Voice:
+* Raspberry Pi
+* Google's AIY kit
+
+IoT:
+* 3 x Wemo Mini D1s
+* Raspberry Pi as local host
+* 3G Router
+
+---
+
+
+
+## Software
+
+Voice:
+* Google's AIY library
+* Bespoke script
+
+IoT:
+* Fridge to Blynk
+* Solar to Blynk
+* Temp and Humidity to Blynk
+
+---
+
+
+
 ## Reflection
