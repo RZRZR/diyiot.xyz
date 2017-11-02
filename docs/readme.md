@@ -11,4 +11,4 @@ DNA and privacy Co-Design:
 
 unit 2: Creative Technology 
 
-[audio diary, product video and press release](thoughts/symbiotichome.md)
+[audio diary, product video and press release](thoughts/symbiotichome.html)
