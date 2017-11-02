@@ -36,12 +36,14 @@
 
 
 ## Press Release
-> SUBJECT: Voice AI saves us from the Energy Crisis.
+> SUBJECT: Voice AI saves us from the energy crisis.
 
 > It's only a matter of time before our energy will be limited; either through prohibitively high prices or renewable energy rationing. 
 > test
 > test
 > test
+
+
 ---
 
 
