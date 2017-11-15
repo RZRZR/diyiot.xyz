@@ -42,5 +42,8 @@ Users can find interacting with others online a confusing experience. Social med
 > Have you read the content fully?
 > Do you know who the author is?
 > Has the author asked for feedback or advice?
+> Do you have useful and constructive feedback?
+> 
 ``` 
 * Quick glossary of acronyms and emoji (and memes?)
+* Quick startguide to platform etiquette 
