@@ -37,12 +37,13 @@ Users can find interacting with others online a confusing experience. Social med
 ## Scenarios
 
 ## Initial Ideas
-* Check list of good practice before posting
+* Checklist of good practice before posting
 ``` 
 > Have you read the content fully?
 > Do you know who the author is?
 > Has the author asked for feedback or advice?
 > Do you have useful and constructive feedback?
+> Is your comment clear and tone obvious?
 > 
 ``` 
 * Quick glossary of acronyms and emoji (and memes?)
