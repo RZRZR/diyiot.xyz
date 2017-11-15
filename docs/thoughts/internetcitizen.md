@@ -13,23 +13,23 @@
 
 ## Challenge
 
-People can find interacting with others online a confusing experience. Th
+Users can find interacting with others online a confusing experience. Social media and comment sections can sometimes be unpleasant places.
 
 *misunderstanding*
-* it is hard to convey a tone
-* it 
-* People sometimes to not read carefully.
-* People are sometimes not aware of a wider context.
-* People sometimes to not research the author of whatever they are responding to, so cannot make a judgement on their authority on the subject.
+
+* Users do not read carefully.
+* Users are not aware of a wider context.
+* Users do not research the author of whatever they are responding to, so cannot make a judgement on their authority on the subject.
+* It is hard to convey a tone, so comments can be read in multiple ways (sometimes depending on the reader's mood)
 
 *different language*
-* Words mean different things in different context.
-* People use images as shorthand (memes).
-* People use emojis to signify a tone or feeling.
+* Words mean different things in different contexts.
+* Users use images as shorthand (memes).
+* Users use emojis to signify a tone or feeling.
 
 *unkindness*
-* People are sometimes rude online.
-* People are sometimes unhelpful online.
-* People are sometimes not thoughtful online.
+* Users are sometimes rude online.
+* Users are sometimes unhelpful online.
+* Users are sometimes not thoughtful online.
 
 **Scenarios** 
