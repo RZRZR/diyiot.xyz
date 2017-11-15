@@ -7,7 +7,7 @@
 
 **Brief**: To explore handle(s) as an embodied exchange between human and object, in relation to a specific task and for a particular context.
 
-**Intent/Audience**: To help new internet users handle online interactions. To remind existing users.
+**Intent/Audience**: To help new internet users handle online interactions. To make conversation online to be more accessible. To remind existing users.
 
 **Disclaimer**: This is not a guide to start using the internet, it's a nudge to be a better internet citizen.
 
@@ -34,4 +34,8 @@ Users can find interacting with others online a confusing experience. Social med
 * Users are sometimes unhelpful online.
 * Users are sometimes not thoughtful online.
 
-**Scenarios** 
+## Scenarios
+
+## Initial Ideas
+* Check list of good practice before posting
+* Quick glossary of acronyms and emoji (and memes?)
