@@ -15,7 +15,11 @@
 
 ## Challenge
 
-Users can find interacting with others online a confusing experience. Social media and comment sections can sometimes be unpleasant places.
+Users can find interacting with others online a confusing experience. Social media and comment sections can sometimes be unpleasant places. 
+
+Although we cannot control how others act online, we can try and aid understanding and practice good etiquette in an attempt to make the internet a nicer place. We can also offer tips for new users to become more resilient when they do encounter negative behaviour online.
+
+
 
 *misunderstanding*
 
