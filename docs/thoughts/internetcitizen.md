@@ -1,6 +1,8 @@
 
 ![Confused Face](../images/ConfusedEmoji.png)
 
+<sub><sup>[Contribute on Github here](https://github.com/RZRZR/diyiot.xyz/blob/master/docs/thoughts/internetcitizen.md)</sup></sub>
+
 # Welcome to the Internet
 
 **Brief**: To explore handle(s) as an embodied exchange between human and object, in relation to a specific task and for a particular context.
