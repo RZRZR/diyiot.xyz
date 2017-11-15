@@ -38,4 +38,9 @@ Users can find interacting with others online a confusing experience. Social med
 
 ## Initial Ideas
 * Check list of good practice before posting
+``` 
+> Have you read the content fully?
+> Do you know who the author is?
+> Has the author asked for feedback or advice?
+``` 
 * Quick glossary of acronyms and emoji (and memes?)
