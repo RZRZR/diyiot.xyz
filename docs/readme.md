@@ -12,3 +12,7 @@ DNA and privacy Co-Design:
 unit 2: Creative Technology 
 
 [audio diary, product video and press release](thoughts/symbiotichome.html)
+
+unit 3: Changing Populations
+
+[Welcome pack to the internet](thoughts/internetcitizen.html)
