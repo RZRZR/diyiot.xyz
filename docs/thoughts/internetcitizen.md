@@ -5,7 +5,7 @@
 
 **Brief**: To explore handle(s) as an embodied exchange between human and object, in relation to a specific task and for a particular context.
 
-**Audience**: To help new internet users handle online interactions. To remind existing users.
+**Intent/Audience**: To help new internet users handle online interactions. To remind existing users.
 
 **Disclaimer**: This is not a guide to start using the internet, it's a nudge to be a better internet citizen.
 
