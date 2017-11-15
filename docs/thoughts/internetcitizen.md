@@ -1,5 +1,5 @@
 
-![Confused Face](../images/ConfusedEmoji.jpg)
+![Confused Face](../images/ConfusedEmoji.png)
 
 # Welcome to the Internet
 
